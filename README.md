@@ -5,7 +5,7 @@
 To use this template, first create a new repository, for example, my-web-app
 
 ```
-$ git clone {"gitdown": "gitinfo", "name": "url"}
+$ git clone Issue or pull request URL
 $ cd little-west-twelveth
 $ git remote set-url origin https://github.com/kbala/my-web-app.git
 $ npm install
