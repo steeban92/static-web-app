@@ -1,14 +1,21 @@
 # Static Web App Template for Nodejs
 
-# Usage
+This is a minimal Nodejs application.
+A basic Nodejs application needs just these files:
 
-To use this template, first create a new repository, for example, my-web-app
+- `package.json` - Points to the app's main file and lists its details and dependencies.
+- `server.js` - Starts the http server and listening the request.
+- `public/index.html` - A start page of the Nodejs server.
 
-```
-$ git clone Issue or pull request URL
-$ cd little-west-twelveth
-$ git remote set-url origin https://github.com/kbala/my-web-app.git
-$ npm install
-$ npm install node-static --save
-$ node server.js
+## To Use
+
+To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+git clone https://github.com/kbala/static-web-app
+# Go into the repository
+cd static-web-app
+# Install dependencies and run the app
+npm install && npm start
 ```
