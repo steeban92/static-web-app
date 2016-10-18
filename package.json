@@ -1,27 +1,26 @@
 {
-  "name": "little-west-twelveth",
+  "name": "static-web-app",
   "version": "1.0.0",
-  "description": "A Shopify Storefront Password Page for Little West 12th",
+  "description": "A Static Web App template for Nodejs",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kbala/little-west-twelveth.git"
+    "url": "git+https://github.com/kbala/static-web-app.git"
   },
   "keywords": [
-    "little",
-    "west",
-    "12th",
-    "shopify"
+    "static",
+    "web app",
+    "nodejs"
   ],
   "author": "KBala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kbala/little-west-twelveth/issues"
+    "url": "https://github.com/kbala/static-web-app/issues"
   },
-  "homepage": "https://github.com/kbala/little-west-twelveth#readme",
+  "homepage": "https://github.com/kbala/static-web-app#readme",
   "dependencies": {
     "node-static": "^0.7.9"
   }
