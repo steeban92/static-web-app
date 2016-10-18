@@ -1,0 +1,28 @@
+{
+  "name": "little-west-twelveth",
+  "version": "1.0.0",
+  "description": "A Shopify Storefront Password Page for Little West 12th",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbala/little-west-twelveth.git"
+  },
+  "keywords": [
+    "little",
+    "west",
+    "12th",
+    "shopify"
+  ],
+  "author": "KBala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbala/little-west-twelveth/issues"
+  },
+  "homepage": "https://github.com/kbala/little-west-twelveth#readme",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}

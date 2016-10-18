@@ -3,12 +3,9 @@
 # Setup
 
 ```
-$ git clone 
+$ git clone https://github.com/kbala/little-west-twelveth.git 
 $ cd little-west-twelveth
-$ npm init
-      // main: server.js
 $ npm install
 $ npm install node-static --save
+$ node server.js
 ```
-
-Create the server, refer: http://www.kevinleary.net/simple-node-static-server/
