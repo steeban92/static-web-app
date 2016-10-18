@@ -19,3 +19,12 @@ cd static-web-app
 # Install dependencies and run the app
 npm install && npm start
 ```
+
+Open this [http:localhost:8080] in a browser
+
+## To Edit the code
+
+```bash
+# open visual studio code
+code .
+```
