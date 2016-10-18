@@ -13,7 +13,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/kbala/static-web-app
+git clone https://github.com/kbala/static-web-app.git
 # Go into the repository
 cd static-web-app
 # Install dependencies and run the app
