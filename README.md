@@ -20,7 +20,7 @@ cd static-web-app
 npm install && npm start
 ```
 
-Open this [http:localhost:8080] in a browser
+Open this [http:localhost:8080](http:localhost:8080) in a browser
 
 ## To Edit the code
 
